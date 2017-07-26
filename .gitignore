@@ -1,0 +1,8 @@
+bin
+obj
+debug
+*.suo
+*.user
+Library
+Temp
+Builds
